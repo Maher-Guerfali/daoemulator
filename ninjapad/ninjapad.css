@@ -188,7 +188,7 @@
     height: 62%;
     box-sizing: border-box;
     border-radius: 50%;
-    background-color: #1a6d10;
+    background-color: #16db00;
     border-width: 2.5vmin;
     border-style: outset;
 }
@@ -305,8 +305,8 @@
 }
 
 .analogSwitchButton {
-    --color_off: #830000;
-    --color_on: red;
+    --color_off: #0d5500;
+    --color_on: rgb(66, 249, 0);
     display: flex;
     position: absolute;
     left: 0%;
