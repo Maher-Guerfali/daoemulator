@@ -19,10 +19,10 @@ const OVERSCAN_BOTTOM = 0;
 const SYSTEM = "nes";
 // const EMULATOR = "jsnes";
 const EMULATOR = "binjnes";
-const DEFAULT_ROM = "roms/logo.nes";
+const DEFAULT_ROM = "roms/RoadFighter2000.nes";
 
 // User experience
-const SINGLE_ROM = false;
+const SINGLE_ROM = true;
 const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
