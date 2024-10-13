@@ -1,5 +1,5 @@
 // Show/hide debug messages
-const DEBUG = true;
+const DEBUG = false;
 
 // Virtual analog deadzone
 const DEADZONE = 2; // vmin
@@ -27,10 +27,10 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://twitter.com/ninjadnamics";
+const HOMEPAGE = "https://www.teamdao.org/";
 const ABOUT = (`
-    Follow me on Twitter:<br/>
-    <a href="${HOMPAGE}" target="_blank">
-    <font color="yellow">ninjdynamics</font>
+    Follow us:<br/>
+    <a href="${HOMEPAGE}" target="_blank">
+    <font color="yellow">TeamDAO</font>
     </a>
 `);

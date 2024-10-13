@@ -458,7 +458,7 @@ ninjapad.menu = function() {
                     countdown = null;
                     ninjapad.recorder.start();
                     ninjapad.elements.recStatus.html(`
-                        <div style="font-size: 3vmin;">🔴</div>
+                        <div style="font-size: 3vmin;">🟢</div>
                         <div>&nbsp;REC</div>
                     `);
                 }

@@ -97,7 +97,7 @@
 }
 
 #DEADZONE {
-    background: #444;
+    background: #244718;
 }
 
 .verticalCenter {
@@ -219,7 +219,7 @@
     height: 50%;
     box-sizing: border-box;
     border-radius: 50%;
-
+background-color: #f2ff00;
     text-align: center;
     display: flex;
     justify-content: center;
