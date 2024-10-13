@@ -27,10 +27,10 @@ const SAVE_STATES = true;
 const INPUT_RECORDER = true;
 
 // Owner info
-const HOMEPAGE = "https://twitter.com/ninjadynamics";
+const HOMEPAGE = "https://twitter.com/ninjadnamics";
 const ABOUT = (`
     Follow me on Twitter:<br/>
-    <a href="${HOMEPAGE}" target="_blank">
-    <font color="yellow">ninjadynamics</font>
+    <a href="${HOMPAGE}" target="_blank">
+    <font color="yellow">ninjdynamics</font>
     </a>
 `);

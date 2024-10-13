@@ -16,7 +16,7 @@
 }
 
 #OSD {
-    color: red;
+    color: rgb(24, 239, 0);
     display: flex;
     position: absolute;
     text-align: center;
@@ -38,15 +38,15 @@
 }
 
 #OSD a:link {
-  color: red;
+  color: rgb(0, 255, 0);
 }
 
 #OSD a:visited {
-  color: red;
+    color: rgb(0, 255, 0);
 }
 
 #OSD a:hover {
-   color: red;
+    color: rgb(0, 255, 0);
 }
 
 #OSD a:active {
@@ -176,6 +176,7 @@
     height: 100%;
     box-sizing: border-box;
     border-radius: 50%;
+    background-color: #1aff00;
     background-color: transparent;
     border-width: 2.5vmin;
     border-style: inset;
@@ -187,7 +188,7 @@
     height: 62%;
     box-sizing: border-box;
     border-radius: 50%;
-    background-color: #666;
+    background-color: #1a6d10;
     border-width: 2.5vmin;
     border-style: outset;
 }
